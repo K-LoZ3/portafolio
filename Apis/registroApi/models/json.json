@@ -1,0 +1,18 @@
+[
+    {
+        "name": "sin Destino",
+        "categoria": "de Orden",
+        "montoT": 0,
+        "montos": [],
+        "naturalezas": [],
+        "asientos": []
+    },
+    {
+        "tipo": "gasto",
+        "date": "[2020, 10, 19]",
+        "description": "mercado",
+        "registros": [ "5f862396a6195c3210a701e6", "5f8623a4a6195c3210a701e7" ],
+        "montos": [ 20000, 5000],
+        "naturalezas": [ false, false ]
+    }
+]
